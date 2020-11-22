@@ -1,0 +1,10 @@
+{
+  "name": "tutorials.advanced-scene-manager.level-select",
+  "version": "1.0.0",
+  "displayName": "Level select tutorial for Advanced Scene Manager.",
+  "description": "Adds an tutorial for level select in Advanced Scene Manager.",
+  "keywords": [],
+  "author": {
+    "name": "Advanced Scene Manager"
+  }
+}
